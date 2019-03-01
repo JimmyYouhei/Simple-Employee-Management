@@ -37,6 +37,7 @@ public class PrintFileForTest {
         employeeListTest.addEmployee(sameNameButDifferentDepartment);
         employeeListTest.addEmployee(sameNameButDifferentFaculty);
 
+        
         employeeListTest.writeToFile("PRO192xA3 - Skeleton/data.txt");
     }
 }
