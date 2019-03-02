@@ -103,7 +103,7 @@ public class PRO192xA3 {
         Scanner scan = new Scanner(System.in);
         boolean keepRunning = true;
         //read from file (if any)
-        empMan.readFromFile("PRO192xA3 - Skeleton/data.txt");
+        empMan.readFromFile("data.txt");
         while (keepRunning) {
             System.out.println("University Staff Management 1.0");
             System.out.println("\t1.Add staff");

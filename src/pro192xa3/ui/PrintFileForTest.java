@@ -62,6 +62,6 @@ public class PrintFileForTest {
         employeeListTest.addEmployee(sameNameButDifferentFaculty);
 
         
-        employeeListTest.writeToFile("PRO192xA3 - Skeleton/data.txt");
+        employeeListTest.writeToFile("data.txt");
     }
 }
